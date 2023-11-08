@@ -1,1 +1,1 @@
-# kattis
+Solutions to some Kattis Problems
